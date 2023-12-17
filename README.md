@@ -1,3 +1,5 @@
-# Northcoders News API
+development 
 
-For instructions, please head over to [L2C NC News](https://l2c.northcoders.com/courses/be/nc-news).
+password1
+password2
+password3
